@@ -3,7 +3,7 @@
 
 <head>
     <title>Transition Regensburg Infotafel</title>
-    <meta http-equiv="refresh" content="300">
+    <meta http-equiv="refresh" content="3000">
     <!-- Refresh every 15 minutes -->
     <script type="text/javascript" src="js/startseite.js"></script>
 </head>

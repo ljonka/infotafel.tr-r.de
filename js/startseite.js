@@ -19,7 +19,7 @@ xmlhttp.onreadystatechange = function() {
 					var iframe = document.getElementById("body_content");
 					var playElem = iframe.contentWindow.document.querySelector("input.svg.play.icon-view-play");
 	                                if(playElem !== null){
-        	                                playElem.click();
+        	                                //playElem.click();
                 	                }
     				}, 5000);
 			}, 15000 * position);
